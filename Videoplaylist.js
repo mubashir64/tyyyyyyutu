@@ -16,8 +16,8 @@ const videosList = [
 	title: 'Hokkaido-Gals-Are-Super-Adorable-S01E04'
 },
 {
-	video: 'images/vid-4.mp4',
-	title: 'Comming_soon'
+	video: 'https://www.udrop.com/file/LyDL/Hokkaido_Gals_Are_Super_Adorable!_S01E05_[RareToonsIndia]_720P_HD.mp4',
+	title: 'Hokkaido-Gals-Are-Super-Adorable-S01E05'
 },
 {
 	video: 'images/vid-5.mp4',
